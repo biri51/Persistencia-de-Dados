@@ -1,0 +1,4 @@
+Python é uma linguagem de programação.
+O algoritmo Bubble Sort ordena palavras.
+O algoritmo Selection Sort também ordena palavras.
+Estamos aprendendo a trabalhar com arquivos.
